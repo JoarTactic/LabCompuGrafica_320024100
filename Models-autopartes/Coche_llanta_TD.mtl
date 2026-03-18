@@ -1,0 +1,75 @@
+# Blender 5.0.1 MTL File: 'Coche.blend'
+# www.blender.org
+
+newmtl car_body
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/Goblin2017_albedo.png
+map_Bump -bm 1.000000 C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/Goblin2017_normals.png
+
+newmtl car_glass
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_d C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/Goblin2017_opacity.png
+
+newmtl car_glow
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl car_shadow
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_d C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/Goblin2017_shadow.jpg
+
+newmtl car_tire
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/tire_albedo.png
+map_Bump -bm 1.000000 C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/tire_normals.png
+
+newmtl clearcoat
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+
+newmtl ground_road
+Ns 20.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/road_albedo.png
+map_Bump -bm 1.000000 C:/Users/joarr/OneDrive/Documents/Jorge Arturo/Academico/Facultad de Ingenieria/8° Semestre/Computación Gráfica/Practica 5/fictional-supercar-v12-goblin/source/road_normals.png
